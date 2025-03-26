@@ -1,1 +1,1 @@
-# XPSC Problem Solutions
+# XPSC Problems Solution
