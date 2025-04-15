@@ -3,6 +3,10 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "iosfwd": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "algorithm": "cpp"
   }
 }
